@@ -1,0 +1,93 @@
+html{
+     background-color: rgb(207, 171, 203);
+}
+
+nav{
+    text-align: center;
+  background-color: rgb(202, 172, 220);
+  word-spacing: 5px;
+
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+.home{
+  width: 700px;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  margin-left: 250px;
+  margin-right: 250px;
+  border-radius: 20px;
+  border: 2px dashed palevioletred;
+  padding: 20px;
+  background-color: rgb(212, 187, 237);
+   text-align: center;
+    text-decoration: underline;
+  text-decoration-color: rgb(155, 113, 113);
+  text-decoration-style: dashed;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
+}
+
+.home img {
+  border-radius: 50%;
+  margin-bottom: 5px;
+  width: 45%;
+  border-color: aqua;
+}
+
+.aboutme{
+    text-align: center;
+    border: 2px solid palevioletred;
+    background-color: antiquewhite;
+    box-shadow: 8px 4px 8px 4px;
+    border-radius: 30px;
+  padding: 20px;
+  margin-top: 190px;
+  margin-bottom: 20px;
+  margin-left: 170px;
+  margin-right: 150px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
+}
+
+.credentials{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
+}
+
+.credentials img{
+    border-radius: 30px;
+}
+
+.contactme{
+  text-align: center;
+  background-color: rgb(202, 172, 220);
+  word-spacing: 5px;
+}
+
+.contact{
+    text-align: center;
+    line-height: 20px;
+background-color: antiquewhite;
+  margin-top: 50px;
+  margin-bottom: 50px;
+   margin-left: 300px;
+  margin-right: 300px;
+  text-align: center;
+  border: 5px dashed palevioletred;
+  border-radius: 30px;
+  padding: 25px;
+  box-shadow: 8px 8px 8px 8px;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      word-spacing: 5px;
+      line-height: 30px;
+      box-sizing: 30px;
+}
+
+legend{
+     background-color: rgb(202, 149, 200);
+    background-size: 30px;
+}
