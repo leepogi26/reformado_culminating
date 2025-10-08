@@ -16,7 +16,7 @@ a{
 
 
 .home{
-  width: 700px;
+   width: 700px;
   margin-top: 25px;
   margin-bottom: 20px;
   margin-left: 250px;
@@ -30,6 +30,8 @@ a{
   text-decoration-color: rgb(155, 113, 113);
   text-decoration-style: dashed;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
+}
+width:
 }
 
 .home img {
@@ -91,3 +93,4 @@ legend{
      background-color: rgb(202, 149, 200);
     background-size: 30px;
 }
+
