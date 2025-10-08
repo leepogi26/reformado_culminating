@@ -29,9 +29,7 @@ a{
     text-decoration: underline;
   text-decoration-color: rgb(155, 113, 113);
   text-decoration-style: dashed;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
-}
-width:
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .home img {
@@ -93,4 +91,5 @@ legend{
      background-color: rgb(202, 149, 200);
     background-size: 30px;
 }
+
 
